@@ -1,1 +1,1 @@
-$ VJCapstone
+Wanted to go fix the broken training classifier along with making my own testing program.
