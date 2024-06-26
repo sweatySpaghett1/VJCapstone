@@ -1,0 +1,2 @@
+g++ driver.cpp feature.cpp weaktrainer.cpp utils.cpp strongtrainer.cpp -o driver.x
+./driver.x
